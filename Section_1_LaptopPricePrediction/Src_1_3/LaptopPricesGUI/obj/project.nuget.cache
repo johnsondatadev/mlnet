@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6WmFUB9gCEiikdsI+UioZ+hd/13CibCXU5eUmxRF1ew6SVrYw+JXkC43gNYfA+bKu462e/gb4kMyUX4/k6JgCA==",
+  "dgSpecHash": "OrqS/GLrXxx8nuld4o7+GPdqUWavW7eVDBER1VEdDW0XXZLPFoF9cxkMxbvtdOSgCmrgOhnhNVXe+mJ7nA8sMA==",
   "success": true,
   "projectFilePath": "D:\\AU\\Spring2023\\PersonalTraining\\MLNET\\Section_1_LaptopPricePrediction\\Src_1_3\\LaptopPricesGUI\\LaptopPricesGUI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\23470\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512",
-    "C:\\Users\\23470\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\23470\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\23470\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\23470\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
